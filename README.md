@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Mazen Mostafa! 👋
 
-<!--
-**mazenfarht/mazenfarht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designer who loves creating websites, logos, and banners. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🔖 About Me
+- 🌱 I’m currently enhancing my skills in **React** and **WordPress Development**  .
+- 🚀 I enjoy building scalable and user-friendly websites.
+- 🎨 Graphic Designer with expertise in brochures, banners, and logos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+
+## 📫 Get in Touch
+📧 **Email:** [mazenmostafa2022@gmail.com](mailto:mazenmostafa2022@gmail.com)  
+💼 **LinkedIn:** [Mazen Mostafa](https://www.linkedin.com/in/mazen-mostafa-353102225/)  
+
+## 🔥 Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mazenmostafa&theme=dark)](https://git.io/streak-stats)
+
+## 🏆 GitHub Stats
+![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazenmostafa&show_icons=true&theme=radical)
