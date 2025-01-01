@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 ## 👫🏼 Get in Touch
 📧 **Email:** [mazenmostafa2022@gmail.com](mailto:mazenmostafa2022@gmail.com)  
 💼 **LinkedIn:** [Mazen Mostafa](https://www.linkedin.com/in/mazen-mostafa-353102225/)  
+📏 **Portfolio:** [mazens-portfolio.netlify.app](https://mazens-portfolio.netlify.app/)
 
 ## 🔥 Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mazenmostafa&theme=dark)](https://git.io/streak-stats)
