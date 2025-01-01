@@ -22,9 +22,3 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 💼 **LinkedIn:** [Mazen Mostafa](https://www.linkedin.com/in/mazen-mostafa-353102225/)  
 📏 **Portfolio:** [mazens-portfolio.netlify.app](https://mazens-portfolio.netlify.app/)
 
-## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mazenmostafa&theme=dark)](https://git.io/streak-stats)
-
-## 🏆 GitHub Stats
-![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazenmostafa&show_icons=true&theme=radical)
-
