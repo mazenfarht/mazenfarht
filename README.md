@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
 ## 👫🏼 Get in Touch
 📧 **Email:** [mazenmostafa2022@gmail.com](mailto:mazenmostafa2022@gmail.com)  
