@@ -8,9 +8,9 @@ Seeking a Junior Frontend Developer role to contribute technical skills and grow
 development environment.
 
 ## 🔖 About Me
-- 🌱 I’m currently enhancing my skills in **Frontend Development**  .
-- 🚀 I enjoy building scalable and user-friendly websites.
-- 🎨 Graphic Designer with expertise in brochures, banners, and logos.
+🌱 I’m currently improving and strengthening my skills in Frontend Development, focusing on React.js and modern web technologies.
+🚀 I enjoy building scalable, responsive, and user-friendly web applications with clean and reusable code.
+
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
