@@ -25,5 +25,5 @@ development environment.
 ## 👫🏼 Get in Touch
 📧 **Email:** [mazenmostafa2022@gmail.com](mailto:mazenmostafa2022@gmail.com)  
 💼 **LinkedIn:** [Mazen Mostafa](https://www.linkedin.com/in/mazen-mostafa-353102225/)  
-📏 **Portfolio:** [mazens-portfolio.netlify.app](https://mazens-portfolio.netlify.app/)
+📏 **Portfolio:** [mazen-mostafa-portfolio](https://mazen-mostafa-portfolio.netlify.app/)
 
