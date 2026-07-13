@@ -1,6 +1,6 @@
 # Hi there, I'm Mazen Mostafa! 👋
 
-Welcome to my GitHub profile! I'm a Frontend Developer specializing in React.js with strong experience in building responsive, scalable, and userfriendly web applications. Skilled in working with REST APIs, modern UI libraries, and performance optimization.
+Welcome to my GitHub profile! I'm a Frontend Developer specializing in React.js with strong experience in building responsive, scalable, and user friendly web applications. Skilled in working with REST APIs, modern UI libraries, and performance optimization.
 Experienced in developing real-world projects with a focus on clean UI, reusable components, and smooth user
 experience. Strong ability to leverage AI tools such as ChatGPT, GitHub Copilot, and Claude AI to improve
 productivity and code quality.
